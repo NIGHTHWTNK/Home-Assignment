@@ -1,0 +1,21 @@
+[
+	{
+		"name": "T-Shirt",
+		"category": "Clothing",
+		"price": 350,
+		"amount": 1
+	},
+	{
+		"name": "Hat",
+		"category": "Accessories",
+		"price": 250,
+		"amount": 1
+	},
+	{
+		"name": "Belt",
+		"category": "Accessories",
+		"price": 230,
+		"amount": 1
+	}
+]
+

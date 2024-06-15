@@ -1,0 +1,27 @@
+[
+	{
+		"name": "T-Shirt",
+		"category": "Clothing",
+		"price": 350,
+		"amount": 1
+	},
+	{
+		"name": "Hoodie",
+		"category": "Clothing",
+		"price": 700,
+		"amount": 1
+	},
+	{
+		"name": "Watch",
+		"category": "Accessories",
+		"price": 850,
+		"amount": 1
+	},
+	{
+		"name": "Bag",
+		"category": "Accessories",
+		"price": 640,
+		"amount": 1
+	}
+]
+
